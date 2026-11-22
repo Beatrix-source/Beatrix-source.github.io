@@ -5,7 +5,7 @@ const portfolio = {
   initials: "CXN",
   title: "Python 开发与数据采集",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
-  status: "seeking and learning。。。",
+  status: "seeking and learning ... ",
   location: "大陆 · 成都",
   email: "3652244264@qq.com",
   github: "https://beatrix-source.github.io",
